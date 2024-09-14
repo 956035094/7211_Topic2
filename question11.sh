@@ -10,4 +10,6 @@ git commit -m "add file4"
 
 echo "file4" >> file4
 
+git stash
+
 git switch main
